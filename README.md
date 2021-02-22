@@ -1,5 +1,7 @@
 # Terminal_Tic_Tac_Toe
 
+To play, clone the game down, go to the directory, and run ``ruby main.rb`` in your terminal.
+
 Using OOP, I created a tic-tac-toe game in vanilla ruby. 
 The game starts by asking for both (2 max) players names and which letter they would like to use. 
 Then both players take turns filling in the board untill either the criteria of a winner or a tie game is met. 
