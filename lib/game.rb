@@ -97,6 +97,3 @@ class Game
     play_again?
   end
 end
-
-game = Game.new
-game.create_game
